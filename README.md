@@ -1,3 +1,3 @@
 # Codes
-Contains python files.<br\>
+Contains python files<br\>
 Contains sorting algo code.
